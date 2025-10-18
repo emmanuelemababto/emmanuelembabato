@@ -4,7 +4,7 @@
 🎓Bachelor's Degree in information cybersecurity
 📅 Graduating Class of 2026  
 🔐 CompTIA Security+ Certified  
-## ![CompTIA Security+](https://upload.wikimedia.org/wikipedia/commons/3/39/CompTIA_Security%2B_Logo.svg)
+## https://www.credly.com/badges/8694c8ad-1b72-4adb-9cc2-d2a9d766d99e/public_url
 
 
 
