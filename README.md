@@ -35,7 +35,7 @@ I’m focused on protecting networks, data, and people through strong security p
 - Active directory
 
   # Labs/Project
-  Microsoft Sentinel Azure
+ Microsoft Sentinel project: https://github.com/emmanuelemababto/Detection-Microsoft-Sentinel
   
 
 ## 🎯 Career Goals
