@@ -33,6 +33,9 @@ I’m focused on protecting networks, data, and people through strong security p
 - Linux  
 - Splunk  
 - Active directory
+
+  # Labs/Project
+  Microsoft Sentinel Azure
   
 
 ## 🎯 Career Goals
