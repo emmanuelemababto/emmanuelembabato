@@ -24,19 +24,17 @@ I’m focused on protecting networks, data, and people through strong security p
 
 
 
-## 🛠️ Tools & Technologies
+## 🛠️ Hands-On-Labs Tools & Technologies
+
 - Wireshark  
 - SQLMap  
 - Nmap  
-- Nessus  
-- Microsoft Sentinel  
+- Nessus vulnerability Scanner: https://github.com/emmanuelemababto/Nessus-vulnerability-Management.git
+- Microsoft Sentinel:  https://github.com/emmanuelemababto/Detection-Microsoft-Sentinel
 - Linux  
 - Splunk  
 - Active directory
 
-  # Labs/Project
- Microsoft Sentinel project: https://github.com/emmanuelemababto/Detection-Microsoft-Sentinel
-  
 
 ## 🎯 Career Goals
 - Improve skills in threat detection and digital forensics  
