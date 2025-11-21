@@ -30,7 +30,7 @@ I’m focused on protecting networks, data, and people through strong security p
  
 - Nessus vulnerability Scanner: https://github.com/emmanuelemababto/Nessus-vulnerability-Management.git
 - Microsoft Sentinel:  https://github.com/emmanuelemababto/Detection-Microsoft-Sentinel
-- Mestasploitable/penetration testing:
+- Mestasploitable/pen-testing:https://github.com/emmanuelemababto/metasploit-pentesting.git
 - Linux  
 - Splunk  
 - Active directory
