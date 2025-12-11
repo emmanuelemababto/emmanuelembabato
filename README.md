@@ -23,6 +23,7 @@ I’m focused on protecting networks, data, and people through strong security p
 . Wirshark 
 . Nmap
 . Microsoft Azure cloud
+. Python Automation for Network Port Analysis and Alerting
 
 
 
