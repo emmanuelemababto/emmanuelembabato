@@ -29,10 +29,10 @@ I’m focused on protecting networks, data, and people through strong security p
 
 ## 🛠️ Hands-On-Labs Tools & Technologies
  
-- Nessus vulnerability Scanner: https://github.com/emmanuelemababto/Nessus-vulnerability-Management.git
-- Microsoft Sentinel:  https://github.com/emmanuelemababto/Detection-Microsoft-Sentinel
-- Mestasploitable/pen-testing:https://github.com/emmanuelemababto/metasploit-pentesting.git
-- Linux  
+- # Nessus vulnerability Scanner: https://github.com/emmanuelemababto/Nessus-vulnerability-Management.git
+- # Microsoft Sentinel:  https://github.com/emmanuelemababto/Detection-Microsoft-Sentinel
+- # Mestasploitable/pen-testing: https://github.com/emmanuelemababto/metasploit-pentesting.git
+  # Python Automation for Network Port Analysis and Alerting: https://github.com/emmanuelemababto/-Network-Port-Analysis-and-Alerting.git
 - Splunk  
 - Active directory
 
