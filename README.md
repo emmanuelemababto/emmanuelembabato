@@ -24,6 +24,7 @@ I’m focused on protecting networks, data, and people through strong security p
 . Nmap
 . Microsoft Azure cloud
 . Python Automation for Network Port Analysis and Alerting
+.  Turning Suricata into a Network Security Gatekeeper
 
 
 
@@ -33,8 +34,7 @@ I’m focused on protecting networks, data, and people through strong security p
 -  Microsoft Sentinel:  https://github.com/emmanuelemababto/Detection-Microsoft-Sentinel
 - Mestasploitable/pen-testing: https://github.com/emmanuelemababto/metasploit-pentesting.git
 - Python Automation for Network Port Analysis and Alerting: https://github.com/emmanuelemababto/-Network-Port-Analysis-and-Alerting.git
-- Splunk  
-- Active directory
+- Turning Suricata into a Network Security Gatekeeper:
 
 
 ## 🎯 Career Goals
