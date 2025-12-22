@@ -21,7 +21,7 @@ I’m focused on protecting networks, data, and people through strong security p
 . Siem Monotoring with Microsoft Sentinel
 . Nessus
 . Wirshark 
-. Nmap
+. Azure IAM Security Operations Lab
 . Microsoft Azure cloud
 . Python Automation for Network Port Analysis and Alerting
 . Turning Suricata into a Network Security Gatekeeper
@@ -35,7 +35,7 @@ I’m focused on protecting networks, data, and people through strong security p
 - Mestasploitable/pen-testing: https://github.com/emmanuelemababto/metasploit-pentesting.git
 - Python Automation for Network Port Analysis and Alerting: https://github.com/emmanuelemababto/-Network-Port-Analysis-and-Alerting.git
 - Turning Suricata into a Network Security Gatekeeper: https://github.com/emmanuelemababto/Turning-Suricata-into-a-Network-Security-Gatekeeper.git
-
+- Azure IAM Security Operations Lab: https://github.com/emmanuelemababto/Azure-IAM-Security-Operations-Lab.git
 
 ## 🎯 Career Goals
 - Improve skills in threat detection and digital forensics  
