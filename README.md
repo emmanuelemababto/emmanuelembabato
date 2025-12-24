@@ -37,7 +37,7 @@ I’m focused on protecting networks, data, and people through strong security p
 - Python Automation for Network Port Analysis and Alerting: https://github.com/emmanuelemababto/-Network-Port-Analysis-and-Alerting.git
 - Turning Suricata into a Network Security Gatekeeper: https://github.com/emmanuelemababto/Turning-Suricata-into-a-Network-Security-Gatekeeper.git
 - Azure IAM Security Operations Lab: https://github.com/emmanuelemababto/Azure-IAM-Security-Operations-Lab.git
-- Windows Endpoint Onboorading inVisibility Troubleshooting Lab (Intune, Entra ID, Defender XDR): https://github.com/emmanuelemababto/Windows-Endpoint-Visibility-Troubleshooting-Lab-Intune-Entra-ID-Defender-XDR.git
+- Windows Endpoint Visibility Troubleshooting Lab (Intune, Entra ID, Defender XDR): https://github.com/emmanuelemababto/Windows-Endpoint-Visibility-Troubleshooting-Lab-Intune-Entra-ID-Defender-XDR.git
 
 ## 🎯 Career Goals
 - Improve skills in threat detection and digital forensics  
