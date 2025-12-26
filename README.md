@@ -1,19 +1,14 @@
-# 👋 Hi, I'm Emmanuel
+Hi, I'm Emmanuel
 
-🎓 Cybersecurity Student at Collin College 
-🎓Bachelor's Degree in information cybersecurity
-📅 Graduating Class of 2026  
-🔐 CompTIA Security+ Certified  
+Cybersecurity Student at Collin College 
+Bachelor's Degree in information cybersecurity
+Graduating Class of 2026  
+CompTIA Security+ Certified  
 <img width="396" height="307" alt="Image" src="https://github.com/user-attachments/assets/1fa49cbb-1f8c-42d2-bb77-16886bbe72ae" />
 ## https://www.credly.com/badges/8694c8ad-1b72-4adb-9cc2-d2a9d766d99e/public_url
 
-
-
-
-## 💡 About Me
-My passion for cybersecurity started after I became a victim of credit card fraud.  
-That experience motivated me to learn how cyber threats work and how to stop them.  
-I’m focused on protecting networks, data, and people through strong security practices.
+# About Me
+My interest in cybersecurity started after I became a victim of credit card fraud. Experiencing that firsthand made me curious about how attackers exploit systems and how those attacks can be stopped. Since then, I’ve focused on building practical skills to protect networks, data, and users through effective security controls and monitoring.
 
 # Projects
 . Active Directories
@@ -29,7 +24,7 @@ I’m focused on protecting networks, data, and people through strong security p
 
 
 
-## 🛠️ Hands-On-Labs Tools & Technologies
+# Hands-On-Labs Tools & Technologies
  
 1. Nessus vulnerability Scanner: https://github.com/emmanuelemababto/Nessus-vulnerability-Management.git
 2. Microsoft Sentinel:  https://github.com/emmanuelemababto/Detection-Microsoft-Sentinel
@@ -40,15 +35,13 @@ I’m focused on protecting networks, data, and people through strong security p
 7. Windows Endpoint Visibility Troubleshooting Lab (Intune, Entra ID, Defender XDR): https://github.com/emmanuelemababto/Windows-Endpoint-Visibility-Troubleshooting-Lab-Intune-Entra-ID-Defender-XDR.git
 8. Preventing Unsupervised  Cloud Spending (Azure): https://github.com/emmanuelemababto/Preventing-Unsupervised-Cloud-Spending-AZURE-.git
 
-## 🎯 Career Goals
+# Career Goals
 - Improve skills in threat detection and digital forensics  
 - Gain hands-on experience in SOC operations  
 - Continue learning toward advanced security certifications  
 
-# 📫 Contact
-- **LinkedIn:** [www.linkedin.com/in/emmanuel-embabato]
-  (https://www.linkedin.com/in/emmanuel-embabato)
-  
- ## Email: eembabatoprecious1@collin.edu  
+ profiles:
+LinkedIn: [www.linkedin.com/in/emmanuel-embabato]
+(https://www.linkedin.com/in/emmanuel-embabato)
 
  “Security is not a product, but a process.” – Bruce Schneier
