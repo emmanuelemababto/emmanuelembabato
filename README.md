@@ -20,7 +20,7 @@ I’m focused on protecting networks, data, and people through strong security p
 . Web Vulnerbility Assessment
 . Siem Monotoring with Microsoft Sentinel
 . Nessus
-. Wirshark 
+. Preventing Unsupervised  Cloud Spending (Azure)
 . Azure IAM Security Operations Lab
 . Microsoft Azure cloud
 . Python Automation for Network Port Analysis and Alerting
@@ -31,13 +31,14 @@ I’m focused on protecting networks, data, and people through strong security p
 
 ## 🛠️ Hands-On-Labs Tools & Technologies
  
--  Nessus vulnerability Scanner: https://github.com/emmanuelemababto/Nessus-vulnerability-Management.git
--  Microsoft Sentinel:  https://github.com/emmanuelemababto/Detection-Microsoft-Sentinel
-- Mestasploitable/pen-testing: https://github.com/emmanuelemababto/metasploit-pentesting.git
-- Python Automation for Network Port Analysis and Alerting: https://github.com/emmanuelemababto/-Network-Port-Analysis-and-Alerting.git
-- Turning Suricata into a Network Security Gatekeeper: https://github.com/emmanuelemababto/Turning-Suricata-into-a-Network-Security-Gatekeeper.git
-- Azure IAM Security Operations Lab: https://github.com/emmanuelemababto/Azure-IAM-Security-Operations-Lab.git
-- Windows Endpoint Visibility Troubleshooting Lab (Intune, Entra ID, Defender XDR): https://github.com/emmanuelemababto/Windows-Endpoint-Visibility-Troubleshooting-Lab-Intune-Entra-ID-Defender-XDR.git
+1. Nessus vulnerability Scanner: https://github.com/emmanuelemababto/Nessus-vulnerability-Management.git
+2. Microsoft Sentinel:  https://github.com/emmanuelemababto/Detection-Microsoft-Sentinel
+3. Mestasploitable/pen-testing: https://github.com/emmanuelemababto/metasploit-pentesting.git
+4. Python Automation for Network Port Analysis and Alerting: https://github.com/emmanuelemababto/-Network-Port-Analysis-and-Alerting.git
+5. Turning Suricata into a Network Security Gatekeeper: https://github.com/emmanuelemababto/Turning-Suricata-into-a-Network-Security-Gatekeeper.git
+6. Azure IAM Security Operations Lab: https://github.com/emmanuelemababto/Azure-IAM-Security-Operations-Lab.git
+7. Windows Endpoint Visibility Troubleshooting Lab (Intune, Entra ID, Defender XDR): https://github.com/emmanuelemababto/Windows-Endpoint-Visibility-Troubleshooting-Lab-Intune-Entra-ID-Defender-XDR.git
+8. Preventing Unsupervised  Cloud Spending (Azure): https://github.com/emmanuelemababto/Preventing-Unsupervised-Cloud-Spending-AZURE-.git
 
 ## 🎯 Career Goals
 - Improve skills in threat detection and digital forensics  
