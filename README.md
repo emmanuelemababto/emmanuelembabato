@@ -10,38 +10,37 @@ CompTIA Security+ Certified
 # About Me
 My interest in cybersecurity started after I became a victim of credit card fraud. Experiencing that firsthand made me curious about how attackers exploit systems and how those attacks can be stopped. Since then, I’ve focused on building practical skills to protect networks, data, and users through effective security controls and monitoring.
 
+
 # Projects
-. Active Directories
-. Web Vulnerbility Assessment
-. Siem Monotoring with Microsoft Sentinel
-. Nessus
-. Preventing Unsupervised  Cloud Spending (Azure)
-. Azure IAM Security Operations Lab
-. Microsoft Azure cloud
-. Python Automation for Network Port Analysis and Alerting
-. Turning Suricata into a Network Security Gatekeeper
-. Windows Endpoint Enrollment & Onboarding Lab (Microsoft Intune & Defender for Endpoint)
+1. Windows Endpoint Visibility Troubleshooting Lab (Intune, Entra ID, Defender XDR)
+https://github.com/emmanuelemababto/Windows-Endpoint-Visibility-Troubleshooting-Lab-Intune-Entra-ID-Defender-XDR.git
 
+2. Preventing Unsupervised Cloud Spending (Azure)
+https://github.com/emmanuelemababto/Preventing-Unsupervised-Cloud-Spending-AZURE-.git
 
+3. Azure IAM Security Operations Lab
+https://github.com/emmanuelemababto/Azure-IAM-Security-Operations-Lab.git
 
-# Hands-On-Labs Tools & Technologies
- 
-1. Nessus vulnerability Scanner: https://github.com/emmanuelemababto/Nessus-vulnerability-Management.git
-2. Microsoft Sentinel:  https://github.com/emmanuelemababto/Detection-Microsoft-Sentinel
-3. Mestasploitable/pen-testing: https://github.com/emmanuelemababto/metasploit-pentesting.git
-4. Python Automation for Network Port Analysis and Alerting: https://github.com/emmanuelemababto/-Network-Port-Analysis-and-Alerting.git
-5. Turning Suricata into a Network Security Gatekeeper: https://github.com/emmanuelemababto/Turning-Suricata-into-a-Network-Security-Gatekeeper.git
-6. Azure IAM Security Operations Lab: https://github.com/emmanuelemababto/Azure-IAM-Security-Operations-Lab.git
-7. Windows Endpoint Visibility Troubleshooting Lab (Intune, Entra ID, Defender XDR): https://github.com/emmanuelemababto/Windows-Endpoint-Visibility-Troubleshooting-Lab-Intune-Entra-ID-Defender-XDR.git
-8. Preventing Unsupervised  Cloud Spending (Azure): https://github.com/emmanuelemababto/Preventing-Unsupervised-Cloud-Spending-AZURE-.git
+4. Turning Suricata into a Network Security Gatekeeper
+https://github.com/emmanuelemababto/Turning-Suricata-into-a-Network-Security-Gatekeeper.git
 
-# Career Goals
-- Improve skills in threat detection and digital forensics  
-- Gain hands-on experience in SOC operations  
-- Continue learning toward advanced security certifications  
+5. Nessus Vulnerability Scanner
+https://github.com/emmanuelemababto/Nessus-vulnerability-Management.git
 
- profiles:
+6. Microsoft Sentinel Detection Lab
+https://github.com/emmanuelemababto/Detection-Microsoft-Sentinel
+
+7. Metasploitable / Penetration Testing Lab
+https://github.com/emmanuelemababto/metasploit-pentesting.git
+
+8. Python Automation for Network Port Analysis and Alerting
+https://github.com/emmanuelemababto/-Network-Port-Analysis-and-Alerting.git
+
+  
+ # profiles:
 LinkedIn: [www.linkedin.com/in/emmanuel-embabato]
 (https://www.linkedin.com/in/emmanuel-embabato)
 
  “Security is not a product, but a process.” – Bruce Schneier
+
+ 
