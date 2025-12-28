@@ -29,16 +29,17 @@ https://github.com/emmanuelemababto/Azure-IAM-Security-Operations-Lab.git
 4. Turning Suricata into a Network Security Gatekeeper
 https://github.com/emmanuelemababto/Turning-Suricata-into-a-Network-Security-Gatekeeper.git
 
-5. Nessus Vulnerability Scanner
+5. Implementing Zero Trust Through Role‑Based Access Control:  https://github.com/emmanuelemababto/Implementing-Zero-Trust-Through-Role-Based-Access-Control.git
+6. Nessus Vulnerability Scanner
 https://github.com/emmanuelemababto/Nessus-vulnerability-Management.git
 
-6. Microsoft Sentinel Detection Lab
+7. Microsoft Sentinel Detection Lab
 https://github.com/emmanuelemababto/Detection-Microsoft-Sentinel
 
-7. Metasploitable / Penetration Testing Lab
+8. Metasploitable / Penetration Testing Lab
 https://github.com/emmanuelemababto/metasploit-pentesting.git
 
-8. Python Automation for Network Port Analysis and Alerting
+9. Python Automation for Network Port Analysis and Alerting
 https://github.com/emmanuelemababto/-Network-Port-Analysis-and-Alerting.git
 
   
