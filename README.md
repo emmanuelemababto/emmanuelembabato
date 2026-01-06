@@ -17,30 +17,26 @@ My interest in cybersecurity started after I became a victim of credit card frau
 
 
 # Projects
-1. Device Onboarding and Troubleshooting  with Intune (Intune, Entra ID, Defender XDR)
-https://github.com/emmanuelemababto/Windows-Endpoint-Visibility-Troubleshooting-Lab-Intune-Entra-ID-Defender-XDR.git
+ Device Onboarding  with Intune(Intune, Entra and XDR) https://github.com/emmanuelemababto/Windows-Endpoint-Visibility-Troubleshooting-Lab-Intune-Entra-ID-Defender-XDR.git
+   
 
-2. Preventing Unsupervised Cloud Spending (Azure)
-https://github.com/emmanuelemababto/Preventing-Unsupervised-Cloud-Spending-AZURE-.git
+Preventing Unsupervised Cloud Spending (Azure) https://github.com/emmanuelemababto/Preventing-Unsupervised-Cloud-Spending-AZURE-.git
 
-3. Azure IAM Security Operations Lab
-https://github.com/emmanuelemababto/Azure-IAM-Security-Operations-Lab.git
+Azure IAM Security Operations Lab https://github.com/emmanuelemababto/Azure-IAM-Security-Operations-Lab.git
 
-4. Turning Suricata into a Network Security Gatekeeper
-https://github.com/emmanuelemababto/Turning-Suricata-into-a-Network-Security-Gatekeeper.git
+Turning Suricata into a Network Security Gatekeeper https://github.com/emmanuelemababto/Turning-Suricata-into-a-Network-Security-Gatekeeper.git
 
-5. Implementing Zero Trust Through Role‑Based Access Control:  https://github.com/emmanuelemababto/Implementing-Zero-Trust-Through-Role-Based-Access-Control.git
-6. Nessus Vulnerability Scanner
-https://github.com/emmanuelemababto/Nessus-vulnerability-Management.git
+Implementing Zero Trust Through Role‑Based Access Control:  https://github.com/emmanuelemababto/Implementing-Zero-Trust-Through-Role-Based-Access-Control.git
+   
+Etra Connect Sync: https://github.com/emmanuelemababto/Microsoft-Entra-Connect.git
+   
+Nessus Vulnerability Scanner https://github.com/emmanuelemababto/Nessus-vulnerability-Management.giT
 
-7. Microsoft Sentinel Detection Lab
-https://github.com/emmanuelemababto/Detection-Microsoft-Sentinel
+Microsoft Sentinel Detection Lab https://github.com/emmanuelemababto/Detection-Microsoft-Sentinel
 
-8. Metasploitable / Penetration Testing Lab
-https://github.com/emmanuelemababto/metasploit-pentesting.git
-
-9. Python Automation for Network Port Analysis and Alerting
-https://github.com/emmanuelemababto/-Network-Port-Analysis-and-Alerting.git
+Metasploitable / Penetration Testing Lab https://github.com/emmanuelemababto/metasploit-pentesting.git
+ 
+Python Automation for Network Port Analysis and Alerting https://github.com/emmanuelemababto/-Network-Port-Analysis-and-Alerting.git
 
   
  # profiles:
