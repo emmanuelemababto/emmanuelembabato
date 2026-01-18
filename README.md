@@ -30,7 +30,7 @@ Implementing Zero Trust Through Role‑Based Access Control:  https://github.com
    
 Etra Connect Sync: https://github.com/emmanuelemababto/Microsoft-Entra-Connect.git
    
-Nessus Vulnerability Scanner https://github.com/emmanuelemababto/Nessus-vulnerability-Management.giT
+Nessus Vulnerability Scanner: https://github.com/emmanuelemababto/Nessus-vulnerability-Management.git
 
 Microsoft Sentinel Detection Lab https://github.com/emmanuelemababto/Detection-Microsoft-Sentinel
 
