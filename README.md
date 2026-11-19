@@ -17,6 +17,7 @@ My interest in cybersecurity started after I became a victim of credit card frau
 
 
 # Projects
+Basic Employee Onboarding (AD & RBAC) Northstar Medical Group | Identity & Access Management Lab:
  Device Onboarding  with Intune(Intune, Entra and XDR) https://github.com/emmanuelemababto/Windows-Endpoint-Visibility-Troubleshooting-Lab-Intune-Entra-ID-Defender-XDR.git
    
 
